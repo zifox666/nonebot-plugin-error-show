@@ -93,4 +93,4 @@
 |test_error <trace_id> | SUPER |  否  | 所有 |     测试异常发送     |
 
 ### 🎨 效果图
-如果有效果图的话
+<img src="效果图.png" width="400" alt="效果图">
