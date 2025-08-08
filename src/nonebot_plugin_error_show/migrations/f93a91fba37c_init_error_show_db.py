@@ -1,4 +1,4 @@
-"""init
+"""init_error_show_db
 
 迁移 ID: f93a91fba37c
 父迁移:

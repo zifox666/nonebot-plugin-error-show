@@ -1,6 +1,6 @@
 [project]
 name = "nonebot-plugin-error-show"
-version = "0.1.1"
+version = "0.1.2"
 description = "nonebot的报错提示插件"
 readme = "README.md"
 authors = [{ name = "zifox666", email = "zifox666@gmail.com" }]
