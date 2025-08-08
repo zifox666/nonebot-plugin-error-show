@@ -1,6 +1,7 @@
-import qrcode
-from pathlib import Path
 import os
+from pathlib import Path
+
+import qrcode
 
 
 def generate_qr_code(data: str, path: Path, filename: str) -> Path:
@@ -27,4 +28,3 @@ def generate_qr_code(data: str, path: Path, filename: str) -> Path:
     img.save(path / filename)
 
     return path / filename
-
